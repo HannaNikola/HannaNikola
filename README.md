@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 
-- :computer: I am a passionate Full Stack Web Developer.
+- :computer: I am a student, Full Stack Web Developer.
 
 -  I am from Ukraine.
 
@@ -24,7 +24,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
