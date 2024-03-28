@@ -30,6 +30,7 @@
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" title="Git" alt="Git" width="35" height="35"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 
 </div>
