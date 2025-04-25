@@ -15,9 +15,10 @@
 
 - :computer: I am Full Stack Web Developer.
 
--  I am from Ukraine.
+- I’m Ukranian women in Belgium .
 
-- I live in Antwerpen.
+- I’m based in Antwerp!.
+- I’m passionate about coding, solving complex problems, and embracing new challenges in tech.
 
 
 
